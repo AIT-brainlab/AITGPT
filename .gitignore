@@ -1,0 +1,3 @@
+/cache
+/code/.streamlit/secrets.toml
+/docker-compose-swarm.yaml
