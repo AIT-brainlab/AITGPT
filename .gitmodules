@@ -1,0 +1,3 @@
+[submodule "AITGPT-KB"]
+	path = AITGPT-KB
+	url = https://github.com/AIT-brainlab/AITGPT-KB.git
