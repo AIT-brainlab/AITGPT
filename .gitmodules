@@ -4,3 +4,6 @@
 [submodule "AITGPT-WORKFLOW"]
 	path = AITGPT-WORKFLOW
 	url = https://github.com/AIT-brainlab/AITGPT-WORKFLOW.git
+[submodule "AITGPT-APP"]
+	path = AITGPT-APP
+	url = https://github.com/AIT-brainlab/AITGPT-APP.git
