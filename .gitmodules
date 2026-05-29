@@ -1,9 +1,6 @@
-[submodule "AITGPT-KB"]
-	path = AITGPT-KB
-	url = https://github.com/AIT-brainlab/AITGPT-KB.git
-[submodule "AITGPT-WORKFLOW"]
-	path = AITGPT-WORKFLOW
-	url = https://github.com/AIT-brainlab/AITGPT-WORKFLOW.git
 [submodule "AITGPT-APP"]
 	path = AITGPT-APP
 	url = https://github.com/AIT-brainlab/AITGPT-APP.git
+[submodule "compliance-checking"]
+	path = compliance-checking
+	url = https://github.com/AIT-brainlab/AITGPT-compliance-checking
