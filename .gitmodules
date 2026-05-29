@@ -1,6 +1,6 @@
-[submodule "AITGPT-APP"]
-	path = AITGPT-APP
-	url = https://github.com/AIT-brainlab/AITGPT-APP.git
+[submodule "app"]
+	path = app
+	url = https://github.com/AIT-brainlab/AITGPT-APP
 [submodule "compliance-checking"]
 	path = compliance-checking
 	url = https://github.com/AIT-brainlab/AITGPT-compliance-checking
